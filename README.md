@@ -44,6 +44,11 @@ The values for the ID and Token can be obtained in the file from subsection 3 ab
 
 IPAddress can be obtained from step 2.
 
+
+##### Video Link:
+* https://drive.google.com/open?id=1kP1dD1W-KW4R03EFPAHWHiwWsztQXrJz
+
+
 ##### NOTE:
 Don't forget to comment sections of the code that create the instances once the instances have been created!
 
