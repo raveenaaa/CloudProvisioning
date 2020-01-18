@@ -1,6 +1,5 @@
 Homework 0
 ===============
-
 ##### Droplet Provisioning
 1. Set your token
 
@@ -24,7 +23,7 @@ IPAddress can be obtained from step 2.
 * Go to IAM from the AWS console. Create a user with the appropriate permissions.
 * Select the user and go to the **Security Credentials** tab. 
 * Under the **Access Key** section create your key by selecting the **Create Access Key** option and save the file.
-* Under the **SSH keys for AWS CodeCommit** section select the **Upload SSH public Key** option and import your local public key.
+* Under the **SSH keys for AWS CodeCommit** section select the **Upload SSH public Key** option and import your local public key (generated using `ssh-keygen`).
 
 ```
 # Mac/Linux
@@ -47,6 +46,7 @@ IPAddress can be obtained from step 2.
 
 ##### Video Link:
 * https://drive.google.com/open?id=1kP1dD1W-KW4R03EFPAHWHiwWsztQXrJz
+* https://youtu.be/bSe7yWaRjbY
 
 
 ##### NOTE:
