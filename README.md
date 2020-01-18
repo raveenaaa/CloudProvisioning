@@ -16,6 +16,7 @@ setx DO_TOKEN xxx
 
 3. ssh into the new droplet
 `ssh root@IPAddress`
+
 IPAddress can be obtained from step 2.
 
 ##### AWS EC2 Provisioning
