@@ -1,6 +1,4 @@
-Homework 0
-===============
-##### Droplet Provisioning
+#### Droplet Provisioning
 1. Set your token
 
 ```
@@ -18,7 +16,7 @@ setx DO_TOKEN xxx
 
 IPAddress can be obtained from step 2.
 
-##### AWS EC2 Provisioning
+#### AWS EC2 Provisioning
 1. Set your token and keys
 * Go to IAM from the AWS console. Create a user with the appropriate permissions.
 * Select the user and go to the **Security Credentials** tab. 
@@ -45,12 +43,11 @@ IPAddress can be obtained from step 2.
 
 
 ##### Video Link:
-* https://drive.google.com/open?id=1kP1dD1W-KW4R03EFPAHWHiwWsztQXrJz
 * https://youtu.be/bSe7yWaRjbY
 
 
 ##### NOTE:
-Don't forget to comment sections of the code that create the instances once the instances have been created!
+Don't forget to comment sections of the code that create the instances once the instances have been created to avoid creating multiple instances
 
 
 
