@@ -6,9 +6,9 @@ Homework 0
 
 ```
 # Mac/Linux
-export DOTOKEN="xxx"
+export DO_TOKEN="xxx"
 # Windows
-setx DOTOKEN xxx
+setx DO_TOKEN xxx
 ```
 
 2. Run the node program
