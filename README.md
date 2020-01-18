@@ -34,14 +34,18 @@ export AWS_TOKEN="yyy"
 setx AWS_ID xxx
 setx AWS_TOKEN yyy
 ```
-The values for the ID and Token can be obtained in the file from step 3 above.
+The values for the ID and Token can be obtained in the file from subsection 3 above.
 
 2. Run the node program
 `node aws.js`
 
 3. SSH into the new VM instance
 `ssh -i id_rsa.pem centos@IPAddress`
+
 IPAddress can be obtained from step 2.
+
+##### NOTE:
+Don't forget to comment sections of the code that create the instances once the instances have been created!
 
 
 
